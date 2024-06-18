@@ -6,9 +6,6 @@ I'm a Software Engineer who enjoy to write great code and useful tools/libraries
 - 📹️ I make [Youtube](https://www.youtube.com/insomniocode) videos about software development (Spanish).
 - ✍️ Also I blog on [Medium](https://medium.com/@insomniocode) writing about software development (English/Spanish).
 
-If you want to know more about me, follow me on:
-
-[![Twitter](assets/twitter.svg) @**insomniocode**](https://twitter.com/insomniocode)
 <!--
 **Lugriz/lugriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
