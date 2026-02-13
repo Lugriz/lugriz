@@ -1,6 +1,6 @@
-### Hi, I'm Luis! 👋
+### Hi! 👋
 
-I'm a Software Engineer who enjoy to write great code and useful tools/libraries. I like the Open Source ecosystem and I'm learning everyday about it.
+<!--I'm a Software Engineer who enjoy to write great code and useful tools/libraries. I like the Open Source ecosystem and I'm learning everyday about it.
 
 - 👨‍💻️ I'm the creator and maintainer of an Open source library to generate PDF documents called [pdfmake-wrapper](https://github.com/Lugriz/pdfmake-wrapper).
 - 📹️ I make [Youtube](https://www.youtube.com/insomniocode) videos about software development (Spanish).
